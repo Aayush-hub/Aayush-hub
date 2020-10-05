@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Python and Machine Learning
 - 💬 Ask me about Python
-- 📫 How to reach me: :computer:[Linkdin Profile](https://www.linkedin.com/in/aayush-garg-68b6081a3) :computer: [Instagram profile](https://www.instagram.com/ayushgarg1951/?hl=en)
+- 📫 How to reach me: :computer:[Linkedin Profile](https://www.linkedin.com/in/aayush-garg-68b6081a3) :computer: [Instagram profile](https://www.instagram.com/ayushgarg1951/?hl=en)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to sketch
 
