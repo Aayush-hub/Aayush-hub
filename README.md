@@ -1,4 +1,4 @@
-### Hi there I'm Aayush Garg 👋
+### Hi 👋, I am Aayush Garg
 
 - 🔭 I’m currently working on: Python and Machine Learning
 - 🌱 I’m currently learning: Machine Learning
