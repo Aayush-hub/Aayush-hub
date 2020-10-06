@@ -12,5 +12,5 @@
 <img align="right" alt="GIF" src="coder.gif" />
 
 
--->![Aayush's Github stats](https://github-readme-stats.vercel.app/api?username=Aayush-hub&show_icons=true&theme=radical)
+![Aayush's Github stats](https://github-readme-stats.vercel.app/api?username=Aayush-hub&show_icons=true&theme=radical)
 
