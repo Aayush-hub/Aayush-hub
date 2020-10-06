@@ -9,6 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to sketch :pencil2:
 
-
+<img align="right" alt="GIF" src="coder.gif" />
 -->![Aayush's Github stats](https://github-readme-stats.vercel.app/api?username=Aayush-hub&show_icons=true&theme=radical)
 
