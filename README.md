@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on: Machine Learning and Flask
 - 🌱 I’m currently learning: Machine Learning
-- 👯 I’m looking to collaborate on: Python
-- 🤔 I’m looking for help with: Flask
+- 👯 I’m looking to collaborate on: Python , Flask
+- 🤔 I’m looking for help with: Frontend
 - 💬 Ask me about: Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to sketch :pencil2:
