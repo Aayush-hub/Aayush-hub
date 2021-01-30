@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on: Python , Flask
 - 🤔 I’m looking for help with: Frontend
 - 💬 Ask me about: Python
+- :mailbox: Mail me at: ayushgarg1951@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to sketch :pencil2:
 
