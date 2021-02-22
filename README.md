@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Machine Learning and Flask
 - 🌱 I’m currently learning: Machine Learning
 - 👯 I’m looking to collaborate on: Python , Flask
-- 🤔 I’m looking for help with: Frontend
+- 🤔 I’m looking for help with: Designing
 - 💬 Ask me about: Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to sketch :pencil2:
