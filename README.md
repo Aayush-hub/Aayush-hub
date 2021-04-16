@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Machine Learning
 - 👯 I’m looking to collaborate for: Hackathons and Coding Events
 - 🤔 I’m looking for help with: Frontend
-- 💬 Ask me about: Python
+- 💬 Ask me about: Python, Open Source
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to sketch :pencil2:
 
